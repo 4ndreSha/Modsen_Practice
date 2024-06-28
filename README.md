@@ -10,5 +10,5 @@ https://github.com/4ndreSha/JS-Modsen-Test-Project
 <h2>JS Module Tasks</h2>
 https://github.com/4ndreSha/JS-Module-Tasks
 
-<h2>JS Modsen React Tasks</h2>
+<h2>JS React Tasks</h2>
 https://github.com/4ndreSha/JS-React-Tasks
