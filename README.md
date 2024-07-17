@@ -2,6 +2,8 @@
 
 Welcome!
 
+Gorup 5 - React (Google Book Api proj)
+
 There will be links to repositories related to my practical course.
 
 <h2>JS Modsen Test Project</h2>
